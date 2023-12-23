@@ -1,5 +1,3 @@
-# 有偿招募小伙伴一起整理电子书笔记，有意向请联系，QQ：175813662
-
 电子书：
 
 - [GAMES 101 现代计算机图形学入门 - 笔记](https://caterpillarstudygroup.github.io/GAMES101_mdbook/)
