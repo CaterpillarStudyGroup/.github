@@ -1,5 +1,5 @@
 电子书：
-
+- [图形学动画方法综合 - 洞察](https://caterpillarstudygroup.github.io/ImportantArticles/)
 - [GAMES 101 现代计算机图形学入门 - 笔记](https://caterpillarstudygroup.github.io/GAMES101_mdbook/)
 - [GAMES 102 几何建模与处理 - 笔记](https://caterpillarstudygroup.github.io/GAMES102_mdbook/)
 - [GAMES 103 基于物理的计算机动画入门 - 笔记](https://caterpillarstudygroup.github.io/GAMES103_mdbook/)
